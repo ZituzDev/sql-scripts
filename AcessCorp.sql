@@ -1,3 +1,5 @@
+--O SGBD utilizado no projeto foi o Microsoft SQL Server 2022
+
 --Tabela Usuarios
 -- Usada para armazenar informações sobre os usuários do sistema, incluindo detalhes de autenticação e autorização.
 CREATE TABLE [dbo].[AspNetUsers](
